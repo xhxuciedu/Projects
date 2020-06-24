@@ -23,13 +23,9 @@ Project lead: [Yi Sun](mailto:suny16@uci.edu) and [Daniel Chen](mailto:liangjc2@
 
 * ## Project 4: Hand Pose Estimation For Movement Disorders
 
-The aim of the project is to develop state-of-the-art deep learning models to detect hand keypoints from 2D images. Once we have an accurate hand keypoint detection model, we will then develop an automatic, robust and objective system for MDS-UPDRS (for Parkinson and movement disorder) hand movement examination, which roughly consists of three major modules: 
--- hand detection and pose estimation
--- movement pattern extraction and signal analysis
--- MDS-UPDRS prediction. 
-Job responsibilities
-1. Combine signal processing techniques to analyse hand movement pattern time series, including filtering, peak detection, cycle segmentation, abnormal detection, etc. Try to extract insightful features/indices for clinical judgement, such as frequency, amplitude, freezing, etc.
-2. Use previous features to build rule systems or machine learning models to predict MDS-UPDRS. In the attached MDS document, hand examinations are listed in Page 19, 20. 
-3. (optional) explore SOTA approaches for temporal smoothing and tracking, and try to incorporate them into our current hand pose perception algorithms.
+The aim of the project is to develop state-of-the-art deep learning models to detect hand keypoints from 2D images. Once we have an accurate hand keypoint detection model, we will then develop an automatic, robust and objective system for MDS-UPDRS (for Parkinson and movement disorder) hand movement examination, which roughly consists of three major modules: 1) hand detection and pose estimation, 2) movement pattern extraction and signal analysis, and 3) MDS-UPDRS prediction. 
+
+Project lead: [Haoyu Ma](mailto:haoyum3@uci.edu)
+
 
 
