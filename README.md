@@ -7,7 +7,7 @@ This is a part of [MICCAI 2020 RibFrac Challenge:](https://ribfrac.grand-challen
 
 Diagnosis of rib fractures serves as an important and common task in clinical practice, forensics and several business scenarios (e.g., insurance claims). However, few prior studies investigate automatic machine learning techniques on this labor-intensive task. This challenge establishes a large-scale benchmark dataset to automatically detect and classify around 5,000 rib fractures from 660 computed tomography (CT) scans, which consists of 420 training CTs (all with fractures), 80 validation CTs (20 without fractures) and 160 evaluation CTs. Each annotation consists of a pixel-level mask of rib fracture regions (for serving detection), plus a 4-type classification. Both detection and classification tasks are involved in this challenge. An algorithmic challenge for rib fracture detection and classification is the elongated object shape. We hope this challenge could facilitate the research and application of automatic rib fracture detection and diagnoses.  
 
-Project lead email: [mailto Hao Tang](mailto:htang6@uci.edu)
+Project lead: [Hao Tang](mailto:htang6@uci.edu)
 
 * ## Project 2: Green Space Classification
 
