@@ -27,5 +27,28 @@ The aim of the project is to develop state-of-the-art deep learning models to de
 
 Project lead: [Haoyu Ma](mailto:haoyum3@uci.edu)
 
+* ## Project 5: Mapping Human Dwellings with Remote Sensing and Machine Learning Method in Rural Africa Counties
+
+House location represents one of the most important variables in the assessment of exposure to vector-
+borne pathogens. Accurate information on house location can improve modeling disease transmission
+risk and help planning interventions. However, obtaining accurate house location in vast rural areas of
+Africa where there was no prior detailed mapping effort is labor-intensive, expensive, and time-
+consuming. High-resolution remote sensing images are useful, but the traditional method to manually
+identify house structure needs skilled technicians and also prone to errors due to morphological
+resemblance of ground objects to human dwellings.
+We conducted a pilot study by combining remote sensing images and machine learning methods to
+detect human dwelling in a rural area of western Ethiopia. Using high resolution, pan-sharpened
+Pléiades satellite images, and labeled data from the ground survey, a deep convolutional neural network
+for object detection following by the Faster-RCNN method was used to generate low-level features and
+high-level features. Bounded box regression and classification were conducted. The model was trained
+on a 10 x 10 km area of images with 1471 labeled houses and tested on another three 10 x 10 km area
+of satellite images in the nearby area. The model yielded an overall accuracy of 75% in the area and
+88.2% accuracy on the corrugated iron sheet roof type houses.
+We are going to expand the project sites in two dense population areas in Kenya to validate these
+machine learning algorithms and also compare the results between sites to improve model prediction
+accuracy. We expect the combination of remote sensing and machine learning methods can be used to
+detect human dwellings, estimate human density, and the population under risk in rural Africa.
+
+Project lead: [Alexander) Lee](mailto: mingchil@uci.edu)
 
 
