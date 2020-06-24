@@ -19,3 +19,8 @@ Project lead: [Yi Sun](mailto:suny16@uci.edu) and [Daniel Chen](mailto:liangjc2@
 
 * ## Project 3: Car Damage Inspection
 
+
+
+* ## Project 4: Hand Pose Estimation For Movement Disorders
+
+
