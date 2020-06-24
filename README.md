@@ -15,5 +15,7 @@ The aims of this project is to 1) develop a machine learning model that can reli
 
 We have annotated Google Street View and Baidu Street View images of about 1300 scenes that cover both Beijing and southern California.   These annotated images will be used in model training and validation.  Previously an undergraduate student trained an efficient neural network (ENet) model with about 150 images.  The results are reasonably good although no extensive validation has been conducted.  In the summer of 2020, we would like to compare a few other machine learning models and pick a model with the best performance and is reasonably efficient.  We will also train the model with many more images.  We plan to draft paper focusing on the two aims  by the end of this summer.
 
+Project lead: [Yi Sun](mailto:suny16@uci.edu) and [Dan Chen](mailto:liangjc2@uci.edu)
+
 * ## Project 3: Car Damage Inspection
 
