@@ -49,6 +49,6 @@ machine learning algorithms and also compare the results between sites to improv
 accuracy. We expect the combination of remote sensing and machine learning methods can be used to
 detect human dwellings, estimate human density, and the population under risk in rural Africa.
 
-Project lead: [Alexander Lee](mailto: mingchil@uci.edu)
+Project lead: [Alexander Lee](mailto:mingchil@uci.edu)
 
 
