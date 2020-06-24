@@ -19,7 +19,10 @@ Project lead: [Yi Sun](mailto:suny16@uci.edu) and [Daniel Chen](mailto:liangjc2@
 
 * ## Project 3: Car Damage Inspection
 
+In industries like car rental, both owners and renters, are at-risk of being a victim of fraud. To help aid in the claims process for insurance carriers, there needs to be a way to detect car damages from photos pre/post rental trip. This project aims to develop an accurate, reliable, and efficient algorithm for detecting all new damages by comparing both pre-trip and post-trip images, as well as evaluating the severity of them. 
+We have >1000 images taken from Google Image search result and labeled with bounding boxes of different types of damages, such as scratches and dents. An easy solution is to develop a standard object detection model to find all damages from both pre-trip and post-trip images, then use traditional algorithm to find perspective transformation between both images, which will be used to find correspondences of all the detected bounding boxes. This algorithm will be the baseline for this project and we are trying to find better performed algorithms.
 
+Project lead: [Xingwei Liu (Mart)](mailto:xingweil@uci.edu)
 
 * ## Project 4: Hand Pose Estimation For Movement Disorders
 
